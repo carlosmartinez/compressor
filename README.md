@@ -13,3 +13,7 @@ Just some code I wrote for a code test a while back.
 ##Notes
 
 - The code and the tests aren't even in separate files. Outrageous! Hey, it's a code test. 
+
+## How to run
+
+    bundle exec rspec compressor.rb
